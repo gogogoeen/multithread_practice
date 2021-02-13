@@ -5,5 +5,5 @@
 - To create a timer (timer_C) with an interval of 2 seconds. As timer_C timeout, to send a message to queue_B.
 
 ### Reference
-Example of POSIX timer: timer.c, sigev_thread2.c
-Example of POSIX message queue: c_priority_queue_thread.c
+- Example of POSIX timer: timer.c, sigev_thread2.c
+- Example of POSIX message queue: c_priority_queue_thread.c
