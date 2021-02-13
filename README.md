@@ -1,4 +1,4 @@
-# Small Multithread programming practice
+# Small Multithread Programming Practice
 ### This is a multithread task from gogoro's interview:
 - To create a POSIX thread (thread_A) to continuously print “HELLO\n” as mutex (mutex_A) unlocked, and lock mutex (mutex_A) after printing
 - To create another POSIX thread (thread_B) with a message queue server(queue_B). To unlock mutex_A once get any message from queue_B
